@@ -63,6 +63,7 @@ function App() {
   return (
     <div style={{ textAlign: 'center' }}>
       <h1>Finance Flashcards</h1>
+      <h2>How well do you really understand the basics of personal finance?</h2>
       <Card question={currentCard.question} answer={currentCard.answer} />
       <div style={{ marginTop: '20px' }}>
         <button onClick={handlePrev} style={{ marginRight: '10px' }}>Previous</button>
