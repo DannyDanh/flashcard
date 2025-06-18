@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 - [x] **Clicking on the card flips the card over, showing the corresponding component of the information pair**
   - [x] Clicking on a card flips it over, showing the back with corresponding information 
   - [x] Clicking on a flipped card again flips it back, showing the front
-- [x] **Clicking on the next button displays a random new card**
+- [] **Clicking on the next button displays a random new card**
 
 The following **optional** features are implemented:
 
