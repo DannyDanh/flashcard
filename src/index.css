@@ -114,4 +114,18 @@ button:focus-visible {
   color: #1e3a8a;
   transform: rotateY(180deg);
 }
+/* Difficulty-based styles */
+.card-box.easy .card-face {
+  background-color: #d1fae5;
+  color: #065f46;
+}
 
+.card-box.medium .card-face {
+  background-color: #fef9c3;
+  color: #92400e;
+}
+
+.card-box.hard .card-face {
+  background-color: #fee2e2;
+  color: #7f1d1d;
+}
